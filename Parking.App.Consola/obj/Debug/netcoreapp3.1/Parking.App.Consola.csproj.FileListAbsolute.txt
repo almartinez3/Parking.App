@@ -1,0 +1,272 @@
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Consola.exe
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Consola.deps.json
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Consola.runtimeconfig.json
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Consola.runtimeconfig.dev.json
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Consola.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Consola.pdb
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Dominio.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Persistencia.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Persistencia.pdb
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Dominio.pdb
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.csprojAssemblyReference.cache
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.AssemblyInfoInputs.cache
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.AssemblyInfo.cs
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.csproj.CoreCompileInputs.cache
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.csproj.CopyComplete
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.dll
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.pdb
+G:\Documentos\Mi estudio\DotNetProjects\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.genruntimeconfig.cache
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.csprojAssemblyReference.cache
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.AssemblyInfoInputs.cache
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.AssemblyInfo.cs
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.csproj.CoreCompileInputs.cache
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.pdb
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Consola.exe
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Consola.deps.json
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Consola.runtimeconfig.json
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Consola.runtimeconfig.dev.json
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Consola.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Consola.pdb
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Dominio.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Persistencia.dll
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Persistencia.pdb
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Dominio.pdb
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.csproj.CopyComplete
+C:\Users\g-ale\Downloads\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.genruntimeconfig.cache
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Consola.exe
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Consola.deps.json
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Consola.runtimeconfig.json
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Consola.runtimeconfig.dev.json
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Consola.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Consola.pdb
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Dominio.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Persistencia.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Persistencia.pdb
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Dominio.pdb
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.csprojAssemblyReference.cache
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.AssemblyInfoInputs.cache
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.AssemblyInfo.cs
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.csproj.CoreCompileInputs.cache
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.csproj.CopyComplete
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.dll
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.pdb
+C:\Users\g-ale\OneDrive\Escritorio\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.genruntimeconfig.cache
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Consola.exe
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Consola.deps.json
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Consola.runtimeconfig.json
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Consola.runtimeconfig.dev.json
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Consola.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Consola.pdb
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Dominio.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Persistencia.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Persistencia.pdb
+C:\Parqueadero\Parking.App\Parking.App.Consola\bin\Debug\netcoreapp3.1\Parking.App.Dominio.pdb
+C:\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.csprojAssemblyReference.cache
+C:\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.AssemblyInfoInputs.cache
+C:\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.AssemblyInfo.cs
+C:\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.csproj.CoreCompileInputs.cache
+C:\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.csproj.CopyComplete
+C:\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.dll
+C:\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.pdb
+C:\Parqueadero\Parking.App\Parking.App.Consola\obj\Debug\netcoreapp3.1\Parking.App.Consola.genruntimeconfig.cache

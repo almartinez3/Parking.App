@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wNAjNgS2/lei7Kw267IUF4B5S7JJH4IZ/E8z8IE477i56Xds2SF/NbqeEucGRBe/Du6g6+dMu08RrSCk8iZ3ZA==",
+  "success": true,
+  "projectFilePath": "C:\\Parqueadero\\Parking.App\\Parking.App.Dominio\\Parking.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\g-ale\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\g-ale\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
